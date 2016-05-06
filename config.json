@@ -25,7 +25,7 @@
     "networkUpdateFactor": 40,
     "maxHeartbeatInterval": 30000,
     "foodUniformDisposition": true,
-    "virusUniformDisposition": true,
+    "virusUniformDisposition": false,
     "newPlayerInitialPosition": "farthest",
     "massLossRate": 1,
     "mergeTimer": 30
