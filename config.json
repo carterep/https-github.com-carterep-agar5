@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "foodMass": 100,
+    "foodMass": 5,
     "fireFood": 15,
     "limitSplit": 16,
     "defaultPlayerMass": 50,
@@ -14,8 +14,8 @@
         },
 		"splitMass": 90001
 	},
-    "gameWidth": 5000,
-    "gameHeight": 5000,
+    "gameWidth": 50000,
+    "gameHeight": 50000,
     "adminPass": "adminPass",
     "gameMass": 25000,
     "maxFood": 90000,
